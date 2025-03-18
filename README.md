@@ -86,7 +86,7 @@ Contains all the images used in the website, including product images, logos, an
     ```bash
     cd stripe-ecommerce
 3. Open the Project:
-    Open the index.html file in your preferred web browser to view the website.
+    - Open the index.html file in your preferred web browser to view the website.
 
 ## Usage
 - Navigation: Use the navigation bar at the top of the page to explore different sections of the website.
