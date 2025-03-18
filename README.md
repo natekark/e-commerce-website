@@ -32,27 +32,27 @@ The project consists of the following files:
 
 - HTML Files:
 
-index.html: The main landing page.
+    - index.html: The main landing page.
 
-shop.html: Displays all products available for purchase.
-
-sproduct.html: Detailed view of a single product.
-
-blog.html: Blog section of the website.
-
-about.html: Information about the brand.
-
-contact.html: Contact form and company details.
-
-cart.html: Shopping cart page.
-
-checkout.html: Checkout page for finalizing purchases.
-
-account.html: User account management page.
-
-login.html: Login page for existing users.
-
-register.html: Registration page for new users.
+    - shop.html: Displays all products available for purchase.
+    
+    - sproduct.html: Detailed view of a single product.
+    
+    - blog.html: Blog section of the website.
+    
+    - about.html: Information about the brand.
+    
+    - contact.html: Contact form and company details.
+    
+    - cart.html: Shopping cart page.
+    
+    - checkout.html: Checkout page for finalizing purchases.
+    
+    - account.html: User account management page.
+    
+    - login.html: Login page for existing users.
+    
+    - register.html: Registration page for new users.
 
 - CSS Files:
 
